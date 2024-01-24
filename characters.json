@@ -1,1 +1,31 @@
-zxzxcx
+{
+  "characters": [
+    {
+      "id": 1,
+      "nombre": "Carla",
+      "raza": "elfo",
+      "clase": "guerrero",
+      "stats": [10, 11, 13, 14, 15, 16],
+      "descripcion": "bonita",
+      "historia": "triste"
+    },
+    {
+      "id": 2,
+      "nombre": "Eldrin",
+      "raza": "humano",
+      "clase": "mago",
+      "stats": [8, 12, 10, 17, 14, 15],
+      "descripcion": "inteligente",
+      "historia": "misteriosa"
+    },
+    {
+      "id": 3,
+      "nombre": "Thalorin",
+      "raza": "enano",
+      "clase": "explorador",
+      "stats": [12, 14, 11, 10, 16, 13],
+      "descripcion": "valiente",
+      "historia": "aventurera"
+    }
+  ]
+}
